@@ -5,17 +5,14 @@
     <title>Blog/Artículos/Notas de ElSeñorB</title>
     <link>https://elsenorb.github.io/blog/index.html</link>
     <description>Blog personal de ElSeñorB</description>
-
-
+    <atom:link href="https://elsenorb.github.io/rss.xml" rel="self" type="application/rss+xml" />
     <!-- Cada post debe tener un <item>, los mas recientes primero, obiviamente -->
-    <item>
+<item>
       <title>Introduccion</title>
       <link>https://elsenorb.github.io/blog/introduccion.html</link>
       <guid>https://elsenorb.github.io/blog/introduccion.html</guid>
       <pubDate>Fri, 30 Oct 2026 23:35:00 +0200</pubDate>
       <description>La publicación inaugural del blog.</description>
-    </item>
-
-
+</item>
   </channel>
 </rss>
