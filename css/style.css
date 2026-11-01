@@ -22,6 +22,14 @@ body {
   object-fit: cover;
 }
 
+/* picture */
+.picture {
+  width: 720px;
+  height: 566px;
+  border-radius: 0%;
+  object-fit: cover;
+}
+
 /* header */
 header {
   text-align: left;

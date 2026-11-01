@@ -14,5 +14,14 @@
       <pubDate>Fri, 30 Oct 2026 23:35:00 +0200</pubDate>
       <description>La publicación inaugural del blog.</description>
 </item>
+
+<item>
+  <title>El Árbol de la Vida - Minecraft</title>
+  <link>https://elsenorb.github.io/blog/arboldelavida.html</link>
+  <guid>https://elsenorb.github.io/blog/arboldelavida.html</guid>
+  <pubDate>Fri, 1 Nov 2026 22:15:00 +0200</pubDate>
+  <description>Un relato de Minecraft.</description>
+</item>
+
   </channel>
 </rss>
