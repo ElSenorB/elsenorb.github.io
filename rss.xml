@@ -6,13 +6,22 @@
   <description>Blog personal de ElSeñorB</description>
   <atom:link href="https://elsenorb.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 <!-- Cada post debe tener un <item>, los mas recientes primero, obiviamente -->
-<item>
+  <item>
+    <title>Manifiesto Virtual para el Fin de Internet y la centralización de todo.</title>
+    <link>https://elsenorb.github.io/blog/substack1.html</link>
+    <guid>https://elsenorb.github.io/blog/substack1.html</guid>
+    <pubDate>Tus, 03 Nov 2026 00:08:36 +0200</pubDate>
+    <description>Un articulo que escribí originalmente en Substack en el cual explico una mezcla de visiones e ideas que tengo sobre Internet a modo de verbalizar lo que me ronda la mente al respecto mas que nada.</description>
+  </item>
+
+  <item>
   <title>El Árbol de la Vida - Minecraft</title>
   <link>https://elsenorb.github.io/blog/arboldelavida.html</link>
   <guid>https://elsenorb.github.io/blog/arboldelavida.html</guid>
   <pubDate>Sun, 01 Nov 2026 22:24:00 +0200</pubDate>
   <description>Un relato de Minecraft.</description>
 </item>
+
   <item>
   <title>Introduccion</title>
   <link>https://elsenorb.github.io/blog/introduccion.html</link>
@@ -20,5 +29,6 @@
   <pubDate>Fri, 30 Oct 2026 23:35:00 +0200</pubDate>
   <description>La publicación inaugural del blog.</description>
   </item>
+
 </channel>
 </rss>   
