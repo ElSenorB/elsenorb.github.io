@@ -7,7 +7,15 @@
   <atom:link href="https://elsenorb.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 <!-- Cada post debe tener un <item>, los mas recientes primero, obiviamente -->
   <item>
-    <title>Manifiesto Virtual para el Fin de Internet y la centralización de todo.</title>
+    <title>“¿Debo morir yo?ˮ - La decisión de La Alianza (3/11/2026)</title>
+    <link>https://elsenorb.github.io/blog/substack2.html</link>
+    <guid>https://elsenorb.github.io/blog/substack2.html</guid>
+    <pubDate>Tus, 03 Nov 2026 12:05:21 +0200</pubDate>
+    <description>Otro articulo que escribí originalmente en Substack, es mi analisis y reflexión sobre el final de Ataque a Los Titanes</description>
+  </item>
+
+  <item>
+    <title>Manifiesto Virtual para el Fin de Internet y la centralización de todo</title>
     <link>https://elsenorb.github.io/blog/substack1.html</link>
     <guid>https://elsenorb.github.io/blog/substack1.html</guid>
     <pubDate>Tus, 03 Nov 2026 00:08:36 +0200</pubDate>
@@ -23,7 +31,7 @@
 </item>
 
   <item>
-  <title>Introduccion</title>
+  <title>Introducción</title>
   <link>https://elsenorb.github.io/blog/introduccion.html</link>
   <guid>https://elsenorb.github.io/blog/introduccion.html</guid>
   <pubDate>Fri, 30 Oct 2026 23:35:00 +0200</pubDate>
