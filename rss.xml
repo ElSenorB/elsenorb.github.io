@@ -7,6 +7,14 @@
   <atom:link href="https://elsenorb.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 <!-- Cada post debe tener un <item>, los mas recientes primero, obiviamente -->
   <item>
+    <title>No volveré a pagar nada digital (9/11/2026)</title>
+    <link>https://elsenorb.github.io/blog/091126.html</link>
+    <guid>https://elsenorb.github.io/blog/091126.html</guid>
+    <pubDate>Mon, 09 Nov 2026 11:59:30 +0200</pubDate>
+    <description>Comento como es absurdo despilfarrar el dinero en servicios/alquileres digitales</description>
+  </item>
+
+  <item>
     <title>“¿Debo morir yo?ˮ - La decisión de La Alianza (3/11/2026)</title>
     <link>https://elsenorb.github.io/blog/substack2.html</link>
     <guid>https://elsenorb.github.io/blog/substack2.html</guid>
