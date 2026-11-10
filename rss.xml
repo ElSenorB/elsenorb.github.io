@@ -7,7 +7,7 @@
   <atom:link href="https://elsenorb.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 <!-- Cada post debe tener un <item>, los mas recientes primero, obiviamente -->
   <item>
-    <title>No volveré a pagar nada digital (9/11/2026)</title>
+    <title>No volveré a pagar nada digital</title>
     <link>https://elsenorb.github.io/blog/091126.html</link>
     <guid>https://elsenorb.github.io/blog/091126.html</guid>
     <pubDate>Mon, 09 Nov 2026 11:59:30 +0200</pubDate>
@@ -15,7 +15,7 @@
   </item>
 
   <item>
-    <title>“¿Debo morir yo?ˮ - La decisión de La Alianza (3/11/2026)</title>
+    <title>“¿Debo morir yo?ˮ - La decisión de La Alianza</title>
     <link>https://elsenorb.github.io/blog/substack2.html</link>
     <guid>https://elsenorb.github.io/blog/substack2.html</guid>
     <pubDate>Tue, 03 Nov 2026 12:05:21 +0200</pubDate>
@@ -32,16 +32,16 @@
 
   <item>
   <title>El Árbol de la Vida - Minecraft</title>
-  <link>https://elsenorb.github.io/blog/arboldelavida.html</link>
-  <guid>https://elsenorb.github.io/blog/arboldelavida.html</guid>
+  <link>https://elsenorb.github.io/blog/011126.html</link>
+  <guid>https://elsenorb.github.io/blog/011126.html</guid>
   <pubDate>Sun, 01 Nov 2026 22:24:00 +0200</pubDate>
   <description>Un relato de Minecraft.</description>
 </item>
 
   <item>
   <title>Introducción</title>
-  <link>https://elsenorb.github.io/blog/introduccion.html</link>
-  <guid>https://elsenorb.github.io/blog/introduccion.html</guid>
+  <link>https://elsenorb.github.io/blog/301126.html</link>
+  <guid>https://elsenorb.github.io/blog/301126.html</guid>
   <pubDate>Fri, 30 Oct 2026 23:35:00 +0200</pubDate>
   <description>La publicación inaugural del blog.</description>
   </item>
