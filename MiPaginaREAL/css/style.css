@@ -1,0 +1,83 @@
+/* reset-ish */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  color: #222;
+}
+
+/* avatar */
+.avatar {
+  width: 150px;
+  height: 150px;
+  border-radius: 0%;
+  object-fit: cover;
+}
+
+/* picture */
+.picture {
+  width: 720px;
+  height: 566px;
+  border-radius: 0%;
+  object-fit: cover;
+}
+
+/* header */
+header {
+  text-align: left;
+  margin-bottom: 2rem;
+}
+
+header h1 {
+  margin-top: 0.5rem;
+}
+
+/* nav */
+nav {
+  display: flex;
+  gap: 1.5rem;
+  justify-content: left;
+  margin-bottom: 2rem;
+}
+
+.contenedor-imagenes {
+  display: flex;
+  gap: 10px; /* Espacio de separación entre las imágenes */
+  align-items: center; /* Alinea las imágenes verticalmente al centro */
+}
+
+.contenedor-imagenes img {
+  max-width: 100%; /* Hace que la imagen sea adaptable */
+  height: auto;
+}
+
+nav a {
+  text-decoration: none;
+  color: #0066cc;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* main content */
+main {
+  margin-bottom: 2rem;
+}
+
+/* blog post titles */
+h2 {
+  margin-top: 1.5rem;
+}
+
+a {
+  color: #0066cc;
+}   
