@@ -7,6 +7,14 @@
   <atom:link href="https://elsenorb.github.io/rss.xml" rel="self" type="application/rss+xml"/>
 <!-- Cada post debe tener un <item>, los mas recientes primero, obiviamente -->
   <item>
+    <title>Apelando a la mayoría muere tu genuinidad</title>
+    <link>https://elsenorb.github.io/blog/231126.html</link>
+    <guid>https://elsenorb.github.io/blog/231126.html</guid>
+    <pubDate>Mon, 23 Nov 2026 13:02:14 +0200</pubDate>
+    <description>Mi interpretación de apelar a los intereses del algoritmicos de la gente en vez de exponerte tal y como eres sobre tu obra</description>
+  </item>
+
+  <item>
     <title>40 días</title>
     <link>https://elsenorb.github.io/blog/221126.html</link>
     <guid>https://elsenorb.github.io/blog/221126.html</guid>
